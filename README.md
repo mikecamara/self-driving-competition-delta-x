@@ -61,7 +61,7 @@ In other words, to run the following solution, you must have the Donkeycar libra
 
 If you don't have version 4.3 installed yet, you have to checkout to the Donkeycar dev branch.
 
-If you would like more information on to create a Donkeycar from scratch you can read (my blog post)[https://softwareengineering.netlify.app/donkey-car/] in which I go in detail about how to install the libraries in both the vehicle and your computer, you can always check the (Donkeycar official documentation)[https://docs.donkeycar.com/]. 
+If you would like more information on to create a Donkeycar from scratch you can read [my blog post](https://softwareengineering.netlify.app/donkey-car/ )in which I go in detail about how to install the libraries in both the vehicle and your computer, you can always check the [Donkeycar official documentation](https://docs.donkeycar.com/). 
 
 
 ### Running my solution for challenge 1
